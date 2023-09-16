@@ -1,0 +1,5 @@
+The VSCode cheat sheet was from Microsofts website. 
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+Ascii art work was created using 
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
