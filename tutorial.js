@@ -76,7 +76,7 @@ async function main(){
     prompt.start()
 
     //We ask the user for information and store it in the variable restaurant.
-    const {restaurant} = await prompt.get(['restauraunt'])
+    const {restaurant} = await prompt.get(['restaurant'])
     console.log();
 
     //Robots are so cruel sometimes. 
